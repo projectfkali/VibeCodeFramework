@@ -1,13 +1,5 @@
 <div align="center">
-
-# VibeCoding Framework
-
-**A methodology, not just a prompt library.**
-
-[![Version](https://img.shields.io/badge/version-0.1.0--alpha-64d9a8?style=flat-square&labelColor=161b22)](./CHANGELOG.md)
-[![License: MIT](https://img.shields.io/badge/license-MIT-388bfd?style=flat-square&labelColor=161b22)](./LICENSE)
-[![Status](https://img.shields.io/badge/status-active%20development-fbbf24?style=flat-square&labelColor=161b22)](./ROADMAP.md)
-
+  <img src="./assets/banner.svg" alt="VibeCoding Framework" width="100%" />
 </div>
 
 ---
