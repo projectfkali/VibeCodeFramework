@@ -11,7 +11,8 @@ VCF is a structured approach to AI-assisted development — opinionated workflow
 reusable prompt contracts, and session conventions that turn LLMs into reliable
 engineering partners.
 
-### VCF Visual Dashboard & Automation Engine
+<br>
+<img src="./assets/header-dashboard.svg" alt="Visual Dashboard & Automation" width="100%">
 VCF is powered by a React (Vite) visual dashboard and a Node.js automation engine connected to Gemini API.
 
 ```bash
@@ -27,7 +28,8 @@ npm run dev
 # The dashboard will open at http://localhost:5173
 ```
 
-## Three pillars
+<br>
+<img src="./assets/header-pillars.svg" alt="Three Pillars" width="100%">
 
 | | Pillar | What it gives you |
 |---|---|---|
