@@ -43,11 +43,7 @@ npm run dev
 | **02** | **Session workflows** | Step-by-step guides for feature, hotfix, refactor, review sessions |
 | **03** | **Context hygiene** | Conventions for managing LLM context across long sessions and handoffs |
 
-## Built with VCF
 
-- [NuminOS](./examples/README.md) — AI-native Arch Linux distro with local LLM orchestration
-- [Multiplayer Coding Duel](./examples/README.md) — Real-time competitive coding platform
-- *your project* — [add yours →](./CONTRIBUTING.md)
 
 ---
 
